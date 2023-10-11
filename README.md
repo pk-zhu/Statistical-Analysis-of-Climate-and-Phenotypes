@@ -1,4 +1,4 @@
-# Statistical-analysis-of-forest-tree-phenotypes
+# Statistical-Analysis-of-Climate-and-Phenotypes
 ## A pipeline for optimizing large genome analysis by removing transposons or other repetitive elements.
 
 > ***By Pengkai Zhu***
