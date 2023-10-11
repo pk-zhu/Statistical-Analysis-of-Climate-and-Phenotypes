@@ -1,5 +1,5 @@
 # Statistical-Analysis-of-Climate-and-Phenotypes
-## A pipeline for optimizing large genome analysis by removing transposons or other repetitive elements.
+## These are some basic applications of statistics in tree data sets and environmental factors, with each script name reflecting the type of analysis.
 
 > ***By Pengkai Zhu***
 > 
@@ -13,9 +13,5 @@
 
 
 ------
-这是一些基本统计在树木数据集中的应用，每个脚本名体现了各种分析的类型。运行时需要把`data/`和`scripts/`放在同一个工作目录下
-然后
-`
-python spripts/*.py
-`
-即可运行
+
+You need to place `data/` and `scripts/` in the same working directory, and then execute: `python spripts/name.py` to run the script.
