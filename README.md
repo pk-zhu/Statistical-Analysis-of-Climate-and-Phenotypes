@@ -7,7 +7,7 @@
 > 
 >  ***Email: pkzhu222@gmail.com***
 > 
->  ***Cite: Climate Change Influence on the Morphological Traits of Trees: Exploring the Phenotypic Diversity of Fokienia hodginsii in Relation to Climatic Conditions (unpublished)***
+>  ***Cite: He, T.-Y., Zhu, P.-K., Song, C.-L., Wu, M., Lin, J.-N., Xu, Y.-P., Zhang, J.-L., Zhang, Y.-H., Rong, J.-D., Liu, K., Chen, L.-G., Zheng, Y.-S., & Chen, L.-Y. (2025). Gene expression mediates environmentally induced phenotypic plasticity in chamaecyparis hodginsii seedlings. Frontiers in Forests and Global Change, 8, 1557824. https://doi.org/10.3389/ffgc.2025.1557824***
 >  
 >
 
